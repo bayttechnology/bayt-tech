@@ -1,0 +1,17 @@
+{
+    "name": "BAYT TECH",
+    "short_name": "BAYT TECH",
+    "description": "Home Service Laptop Bandung",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F8E8D0",
+    "theme_color": "#4A2E1F",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "images/logo/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
